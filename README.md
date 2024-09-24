@@ -4,7 +4,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nightgames.oficial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/night_games25/)
 
-![github-header-image](https://github.com/user-attachments/assets/124b0819-00ae-4673-9ad1-ceff8b2f9b31)
+![Banner_Github_Rafa_](https://github.com/user-attachments/assets/43bc2b72-0857-42f6-87e6-f59cdec668ca)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=01FFDE&background=1B1B27&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
