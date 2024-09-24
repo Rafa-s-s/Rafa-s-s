@@ -12,7 +12,7 @@
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa-s-s&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafa-s-s&theme=tokyonight)](https://git.io/streak-stats)
 
-# Portfolio: 
+<!-- # Portfolio: -->
 
 ## Tecnologias que eu uso no meu dia
 
