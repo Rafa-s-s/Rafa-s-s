@@ -1,5 +1,8 @@
+![github-header-image](https://github.com/user-attachments/assets/124b0819-00ae-4673-9ad1-ceff8b2f9b31)
 
-### Olá! Eu sou o Raphael Soares dos Santos 🖐️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=01FFDE&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-s-s/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/designer-pratico)
@@ -8,6 +11,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/night_games25/)
 
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa-s-s&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafa-s-s&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ## Tecnologias que eu uso no meu dia
 
