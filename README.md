@@ -46,6 +46,6 @@
 - [Palestra e Ciclo de Debates Certificação Digital e Segurança da Informação](https://www.linkedin.com/in/raphael-s-s/overlay/1726702643978/single-media-viewer/?profileId=ACoAADEf7aMBLPmSe3wUDnTAK5L2d7YnLfSNRLo)
 - <br/>
 
-![Snake animation](https://github.com/Rafa-s-s/Rafa-s-s/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafa-s-s/rafa-s-s/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?Rafa-s-s=your Rafa-s-s&repo=your Rafa-s-s&theme=react)](https://github.com/your Rafa-s-s/your Rafa-s-s)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?rafa-s-s=your rafa-s-s&repo=your rafa-s-s&theme=react)](https://github.com/your rafa-s-s/your rafa-s-s)
