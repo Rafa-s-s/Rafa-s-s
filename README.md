@@ -48,4 +48,3 @@
 
 ![Snake animation](https://github.com/Rafa-s-s/Rafa-s-s/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?Rafa-s-s=your Rafa-s-s&repo=your Rafa-s-s&theme=react)](https://github.com/your Rafa-s-s/your Rafa-s-s)
