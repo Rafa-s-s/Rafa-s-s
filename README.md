@@ -41,9 +41,9 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-
+<!--
 <br/>Apaixonado por tecnologia, inovação e por mudar a vida das pessoas através da programação.
-
+-->
 ## Formação acadêmica:
 - [Curso Superior de Tecnologia (CST) - Analise e Desenvolvimento de Sistemas (ADS)](https://www.linkedin.com/in/raphael-s-s/overlay/1726713823955/single-media-viewer/?profileId=ACoAADEf7aMBLPmSe3wUDnTAK5L2d7YnLfSNRLo)<br/>
 ## Licenças e certificados:
