@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.soaresdossantos@yahoo.com)
 
 ![Banner_Github_Rafa_](https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Banner_Github_Rafa_Tec_2.gif)
-<img src="https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Holograma-Rafa.gif" alt="gif_relembrando_fatos" align="right" width="370" />
+<img src="https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Rafa-projetor.gif" alt="gif_relembrando_fatos" align="right" width="370" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2cf7fd&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
