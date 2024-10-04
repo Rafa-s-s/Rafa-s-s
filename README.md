@@ -8,10 +8,10 @@
 ![Banner_Github_Rafa_](https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Banner_Github_Rafa_Tec_2.gif)
 <img src="https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/HOLOGRAMA%20no%20maximo.gif" alt="gif_relembrando_fatos" align="right" width="350" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFC6&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2cf7fd&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa-s-s&show_icons=true&theme=tokyonight&bg_color=0d1017&border_color=00FFC6)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafa-s-s&theme=tokyonight&background=0d1017&border=00FFC6&stroke=00FFC6)](https://git.io/streak-stats)
+![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa-s-s&show_icons=true&theme=tokyonight&bg_color=0d1017&border_color=2cf7fd&title_color=2cf7fd&icon_color=2cf7fd&text_color=2cf7fd)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafa-s-s&theme=tokyonight&background=0d1017&border=2cf7fd&stroke=2cf7fd&ring=2cf7fd&fire=2cf7fd&currStreakLabel=2cf7fd)](https://git.io/streak-stats)
 
 <!-- # Portfolio: -->
 
