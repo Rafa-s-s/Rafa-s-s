@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/night_games25/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.soaresdossantos@yahoo.com)
 
-![Banner_Github_Rafa_](https://github.com/user-attachments/assets/43bc2b72-0857-42f6-87e6-f59cdec668ca)
+![Banner_Github_Rafa_](https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Banner_Github_Rafa_Tec_2.gif)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFC6&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
