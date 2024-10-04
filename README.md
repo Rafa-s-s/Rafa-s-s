@@ -8,12 +8,13 @@
 ![Banner_Github_Rafa_](https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Banner_Github_Rafa_Tec_2.gif)
 <img src="https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Rafa-projetor.gif" alt="gif_relembrando_fatos" align="right" width="370" />
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2cf7fd&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
-
-
+-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2CF7FD&width=435&lines=Alerta+cr%C3%ADtico!;Anomalia+no+sistema;Tentando+corre%C3%A7%C3%A3o...................................;Falha+detectada!;Reinicializando.++++.++++.++++.++++.++++.++++.++++.++++.++++.++++.++++.;Aguarde................................................;Sobrecarga+iminente!;Desviando+energia;Processando.........................................;Erro+404!;L%C3%B3gica+ausente;Buscando+alternativa...........................;Aten%C3%A7%C3%A3o!;Loop+infinito+detectado;Interrompendo+sequ%C3%AAncia..................;................................................................;...............................................................;...............................................................)](https://git.io/typing-svg)
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa-s-s&show_icons=true&theme=tokyonight&bg_color=0d1017&border_color=0d1017&title_color=00baff&icon_color=00baff&text_color=2cf7fd)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafa-s-s&theme=tokyonight&background=0d1017&border=0d1017&stroke=2cf7fd&ring=2cf7fd&fire=00baff&currStreakNum=00baff&currStreakLabel=2cf7fd&sideLabels=00baff&dates=00baff&sideNums=00baff)](https://git.io/streak-stats)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2CF7FD&width=435&lines=Alerta+cr%C3%ADtico!;Anomalia+no+sistema;Tentando+corre%C3%A7%C3%A3o...................................;Falha+detectada!;Reinicializando.++++.++++.++++.++++.++++.++++.++++.++++.++++.++++.++++.;Aguarde................................................;Sobrecarga+iminente!;Desviando+energia;Processando.........................................;Erro+404!;L%C3%B3gica+ausente;Buscando+alternativa...........................;Aten%C3%A7%C3%A3o!;Loop+infinito+detectado;Interrompendo+sequ%C3%AAncia..................;................................................................;...............................................................;...............................................................)](https://git.io/typing-svg)
+
 
 
 
