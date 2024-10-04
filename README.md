@@ -3,14 +3,15 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071382253303)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nightgames.oficial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/night_games25/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.soaresdossantos@yahoo.com)
 
 ![Banner_Github_Rafa_](https://github.com/user-attachments/assets/43bc2b72-0857-42f6-87e6-f59cdec668ca)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=01FFDE&background=1B1B27&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFC6&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa-s-s&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafa-s-s&theme=tokyonight)](https://git.io/streak-stats)
+![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa-s-s&show_icons=true&theme=tokyonight&bg_color=0d1017&border_color=00FFC6)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafa-s-s&theme=tokyonight&background=0d1017&border=00FFC6&stroke=00FFC6)](https://git.io/streak-stats)
 
 <!-- # Portfolio: -->
 
@@ -25,12 +26,14 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
                
-</div>
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
+    <img align="center" alt="android-studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white" />
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img align="center" alt="visual-studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
 
 <br/>Apaixonado por tecnologia, inovação e por mudar a vida das pessoas através da programação.
 
