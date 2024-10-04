@@ -12,9 +12,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2cf7fd&width=435&lines=Ol%C3%A1!+Sou+o+Raphael+Soares+dos+Santos.;Nasci+em+25+de+Junho+de+1998;Sou+tecn%C3%B3logo+formado+em+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2CF7FD&width=435&lines=Alerta+cr%C3%ADtico!;Anomalia+no+sistema;Tentando+corre%C3%A7%C3%A3o...................................;Falha+detectada!;Reinicializando.++++.++++.++++.++++.++++.++++.++++.++++.++++.++++.++++.;Aguarde................................................;Sobrecarga+iminente!;Desviando+energia;Processando.........................................;Erro+404!;L%C3%B3gica+ausente;Buscando+alternativa...........................;Aten%C3%A7%C3%A3o!;Loop+infinito+detectado;Interrompendo+sequ%C3%AAncia..................;................................................................;...............................................................;...............................................................)](https://git.io/typing-svg)
+
 ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa-s-s&show_icons=true&theme=tokyonight&bg_color=0d1017&border_color=0d1017&title_color=00baff&icon_color=00baff&text_color=2cf7fd)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafa-s-s&theme=tokyonight&background=0d1017&border=0d1017&stroke=2cf7fd&ring=2cf7fd&fire=00baff&currStreakNum=00baff&currStreakLabel=2cf7fd&sideLabels=00baff&dates=00baff&sideNums=00baff)](https://git.io/streak-stats)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=200&color=2CF7FD&width=435&lines=1%25;2%25;3%25;4%25;5%25;6%25;7%25;8%25;9%25;10%25;18%25;25%25;33%25;45%25;55%25;64%25;73%25;82%25;95%25;99%25;100%25)](https://git.io/typing-svg)
 
 
 
