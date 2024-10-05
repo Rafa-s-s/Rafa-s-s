@@ -59,3 +59,6 @@
 <!--
 ![Snake animation](https://github.com/Rafa-s-s/Rafa-s-s/blob/output/github-contribution-grid-snake.svg)
 -->
+### 🐍 Snake Game Contributions
+
+![Snake animation](https://github.com/Rafa-s-s/Rafa-s-s/blob/output/github-contribution-grid-snake.svg)
