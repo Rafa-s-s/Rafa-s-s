@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.soaresdossantos@yahoo.com)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=10&pause=1000&color=2CF7FD&width=435&lines=1%25;2%25;3%25;4%25;5%25;6%25;7%25;8%25;9%25;10%25;18%25;25%25;33%25;45%25;55%25;64%25;73%25;82%25;95%25;99%25;100%25)](https://git.io/typing-svg)
 <!-- BANNER AQUI! -->
-<img src="https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Banner_Github_Rafa_sem_fundo(V2).gif" alt="Melhoria-holograma" width="1120" />
+<img src="https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Banner_Rafa_V2.gif" alt="Melhoria-holograma" width="1120" />
 <img src="https://github.com/Rafa-s-s/Rafa-s-s/blob/main/docs/Melhoria-holograma.gif" alt="Melhoria-holograma" align="right" width="350" />
 
 <!--
