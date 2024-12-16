@@ -51,6 +51,7 @@
 ## Formação acadêmica:
 - [Curso Superior de Tecnologia (CST) - Analise e Desenvolvimento de Sistemas (ADS)](https://www.linkedin.com/in/raphael-s-s/overlay/1726713823955/single-media-viewer/?profileId=ACoAADEf7aMBLPmSe3wUDnTAK5L2d7YnLfSNRLo)<br/>
 ## Licenças e certificados:
+- [Programação em Python do básico ao avançado](https://www.geekuniversity.com.br/certificado/CG-4681907B)<br/>
 - [Photoshop CC COMPLETO - Design Gráfico do Zero ao Avançado](https://www.udemy.com/certificate/UC-637f6a57-b13d-42a0-aca9-fb3311f6f436/)<br/>
 - [Curso de Java](https://www.iped.com.br/ava/cert/5286290/62101/3c376ff3e816df5ec76b?)<br/>
 - [Curso de Segurança na Internet](https://www.iped.com.br/ava/cert/5286290/57505/2190e17a59b8aaa81191?)<br/>
