@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=10&pause=1000&color=2CF7FD&width=435&lines=1%25;2%25;3%25;4%25;5%25;6%25;7%25;8%25;9%25;10%25;18%25;25%25;33%25;45%25;55%25;64%25;73%25;82%25;95%25;99%25;100%25)](https://git.io/typing-svg)
 
 # Projetos: 
-- [Gerador de Holerites](https://github.com/Rafa-s-s/Gerador-de-Holerites)<br/>
+- [Sistema Gerador de Holerites](https://github.com/Rafa-s-s/Gerador-de-Holerites)<br/>
 - [BancoPy Projeto Python](https://github.com/Rafa-s-s/BancoPy_Projeto_Python)<br/>
 - [MercadoPy Projeto Python](https://github.com/Rafa-s-s/MercadoPy_Projeto_Python)<br/>
 - [GamePy Projeto Python](https://github.com/Rafa-s-s/GamePy_Projeto_Python)<br/>
